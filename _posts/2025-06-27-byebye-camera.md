@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Byebye camera"
-date: 2025-06-27
+date: 2025-06-26
 excerpt: 我的记性还挺好的。
 tags: [other]
 feature: https://s2.loli.net/2025/06/27/crCJiwKXGIE17VU.jpg
